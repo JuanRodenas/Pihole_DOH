@@ -16,7 +16,7 @@ El proyecto Pi-hole® es para bloqueo de anuncios en toda la red a través de su
 
 📁 [Documentación oficial](https://docs.pi-hole.net/)
 
-# INSTALAR DOCKER-COMPOSE.YML DE PIHOLE_DOH
+## INSTALAR DOCKER-COMPOSE.YML DE PIHOLE_DOH
 Edit the following variables, with the correct interface, IP and volume.
 > Descargar [docker-compose.yml](https://github.com/JuanRodenas/Pihole_DOH/blob/main/docker-compose.yml)
 >~~~
