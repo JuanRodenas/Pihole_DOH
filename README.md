@@ -90,7 +90,7 @@ There are several ways to [access the dashboard](https://discourse.pi-hole.net/t
 | WindowsSpyBlocker | [Link](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) | To Block WindowsSpyBlocker |
 | StevenBlack | [Link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | To Block StevenBlack |
 | urlhaus-filter-domains | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/urlhaus-filter-domains.txt) | - | 
-| youtubelist | [Link](https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt) | To Block youtubelist |
+| everything | [Link](https://blocklistproject.github.io/Lists/everything.txt) | To Block everything |
 | outapzazaList | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/outapzazaList.txt) | - |
 | NSABlocklist | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/NSABlocklist.txt) | - |
 | adblock-nocoin | [Link](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt) | To Block adblock |
