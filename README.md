@@ -56,7 +56,7 @@ There are several ways to [access the dashboard](https://discourse.pi-hole.net/t
 
 
 ## Detalles
-Para las listas a añadir, visitar
+Para añadir listas a tu Pihole, Pulsa en la imagen para visitar el repositorio de listas para Pi-hole y Adguard.
 <p align="center">
     <a href="https://github.com/JuanRodenas/Pi-hole_list">
         <img src="https://github.com/JuanRodenas/Pihole_DOH/blob/main/pihole.png" alt="Pi-hole" width="200" height="200">
