@@ -69,7 +69,7 @@ Para añadir listas a tu Pihole, Pulsa en la imagen para visitar el repositorio 
 Si queremos realizar una copias de seguridad de la configuración o recuperar el backup, Pulsa en la imagen para visitar el repositorio de copias de seguridad.
 <p align="center">
     <a href="https://github.com/JuanRodenas/Backup/blob/main/README.md">
-        <img src="https://github.com/JuanRodenas/Pihole_DOH/blob/main/cloud-backup.png" alt="Pi-hole" width="200" height="200">
+        <img src="https://github.com/JuanRodenas/Pihole_DOH/blob/main/cloud-backup.png" alt="Pi-hole" width="400" height="200">
     </a>
     <br>
     <strong>Pulsa en la imagen para visitar el repositorio de copias de seguridad.</strong>
